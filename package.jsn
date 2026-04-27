@@ -1,6 +1,6 @@
 package.jsn
 {
-"name": "aira-voice-assistant",
+"name": "aira voice assistant",
 "version": "1.0.0",
 "description": "voice assistant app",
 "main": "server.py",
