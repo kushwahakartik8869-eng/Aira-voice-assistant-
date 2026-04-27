@@ -1,0 +1,17 @@
+Package.jsn
+{
+"name": "aira-voice-assistant",
+"version": "1.0.0",
+"description": "Voice Assistant App",
+"main": "server.py",
+"scripts": {
+"start": "python server.py"
+},
+"dependencies": {
+"flask": "^2.0.0",
+"pymongo": "^4.0.0",
+"google-generativeai": "^0.3.0",
+"python-dotenv": "^0.19.0",
+"flask-cors": "^3.0.0"
+}
+}
